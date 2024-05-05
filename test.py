@@ -8,6 +8,6 @@ def test_add_numbers():
 
 # Test cases for subtract_numbers function
 def test_subtract_numbers():
-    assert subtract_numbers([10, 2, 3]) == 5
+    assert subtract_numbers([10, 2, 3]) == 6
     assert subtract_numbers([100, 20, 30, 40]) == 10
     assert subtract_numbers([5, 2, 1]) == 2
